@@ -1,4 +1,3 @@
-import pytest
 from src.proceso import Proceso
 from src.metrics import calcular_tiempo_respuesta, calcular_tiempo_retorno, calcular_tiempo_espera
 
